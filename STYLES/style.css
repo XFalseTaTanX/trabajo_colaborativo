@@ -1,0 +1,46 @@
+.img{
+    background-color: rgb(0, 0, 0,0.8);
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+img{
+    -shadow: 0 0 10px rgb(255, 248, 248);
+}
+h1{
+    text-align: center;
+}
+.SPAN{
+    margin-left: 500px;th
+    margin-right: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 6px rgb(255, 248, 248);
+}
+body{
+    background-image: url(../IMAGES/1404.jpg);
+    background-size: 40%;
+}
+table td{
+    background-color:black;
+    color:white;
+    font-family: 'Lobster', cursive;
+    
+}
+table th{
+    color: white;
+    font-family: 'Lobster', cursive;
+} 
+table{
+    border-color:white;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
